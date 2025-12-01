@@ -70,7 +70,7 @@ pip install psutil requests urllib3 pillow pywin32 cryptography
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/TechNinja632/c2py.git
+git clone https://github.com/Ar113s/C2py.git
 cd c2py
 ```
 
@@ -297,7 +297,7 @@ c2py/
 
 ### Getting Help
 
-1. Check the [Issues](https://github.com/TechNinja632/c2py/issues) page
+1. Check the [Issues](https://github.com/Ar113s/C2py/issues) page
 2. Review troubleshooting steps
 3. Submit detailed bug reports
 
